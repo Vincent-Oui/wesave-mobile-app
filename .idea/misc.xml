@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable-v24/ic_history.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable-v24/ic_person.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/card_effects.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/custom_card.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/custom_card_1.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/custom_cut_card.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/custom_style.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/edit.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic__add.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_baseline_attach_curency.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_baseline_password.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_baseline_personal.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_baseline_search.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_baseline_visibility_off_24.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/ic_wave.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/text_changed.xml" value="0.2703125" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/drawable/text_color.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_asset.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_asset_search.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_budget.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_budget2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_budget_search.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_choose_analytic.xml" value="0.176" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_currency_exchange.xml" value="0.264" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_daily_analytics.xml" value="0.264" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_forget_password.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_gold.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_home_al.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_liability.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_liability_search.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_login.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_monthly_analytics.xml" value="0.2750845546786922" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_networth_home.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_signup.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_today_spending.xml" value="0.2" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_week_spending.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/activity_weekly_analytics.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/asset_layout.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/asset_retrieve_layout.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/asset_update_layout.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/budget_update_layout.xml" value="0.25317028985507245" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/custom_style.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/from_spinner.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/input_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/liability_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/liability_retrieve_layout.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/liability_update_layout.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/retrieve_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/search_card_holder.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/text_changed.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/layout/to_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gbvin/AndroidStudioProjects/WeSave/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

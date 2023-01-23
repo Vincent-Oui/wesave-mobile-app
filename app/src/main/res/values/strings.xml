@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">WeSave</string>
+
+    <string-array name="items">
+        <item>Select Item</item>
+        <item>Apparel</item>
+        <item>Charity</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Food</item>
+        <item>Health</item>
+        <item>House</item>
+        <item>Personal</item>
+        <item>Transport</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="assets">
+        <item>Select Assets</item>
+        <item>Accounts Receivable</item>
+        <item>Cash and Cash Equivalents</item>
+        <item>House and Land</item>
+        <item>Investments</item>
+        <item>Personal Properties</item>
+        <item>Vehicles</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="liability">
+        <item>Select Assets</item>
+        <item>Accounts Payable</item>
+        <item>Credit Card Bills</item>
+        <item>Loans</item>
+        <item>Mortgages</item>
+        <item>Student Loans</item>
+        <item>Taxes</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>

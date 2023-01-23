@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.wesave">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WeSave">
+        <activity
+            android:name=".ForgetPasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BudgetSearchActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LiabilitySearchActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AssetSearchActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SearchActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LiabilityActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AssetActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GoldActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AccountActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WeekSpendingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TodaySpendingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BudgetActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Budget"
+            android:exported="true" />
+        <activity
+            android:name=".SignupActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CurrencyExchange"
+            android:exported="true" />
+        <activity
+            android:name=".NetworthHome"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

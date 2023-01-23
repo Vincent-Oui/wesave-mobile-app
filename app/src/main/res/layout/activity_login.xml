@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="20dp"
+    tools:context=".LoginActivity">
+
+    <ImageView
+
+        android:id="@+id/image_wesave_logo"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="128dp"
+        android:layout_marginVertical="0dp"
+        android:src="@drawable/wesave_logo" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:hintTextColor="@color/black"
+        app:startIconDrawable="@drawable/ic_person"
+        android:paddingTop="10dp"
+        android:textColorHint="@color/black"
+        app:helperText="Required*"
+        app:helperTextTextColor="@color/red"
+        app:boxStrokeColor="@color/orange"
+        android:minHeight="30dp">
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:layout_marginTop="15dp"
+            android:drawableLeft="@drawable/ic_person"
+            android:drawablePadding="10dp"
+            android:hint="Enter Email"
+            android:inputType="textEmailAddress"
+            android:padding="10dp"
+            android:textSize="15sp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:textColorHint="@color/black"
+        app:helperText="Required*"
+        app:helperTextTextColor="@color/red"
+        app:passwordToggleEnabled="true"
+        app:hintTextColor="@color/black"
+        app:startIconDrawable="@drawable/ic_baseline_password"
+        app:boxStrokeColor="@color/orange"
+        android:minHeight="30dp">
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@drawable/ic_baseline_password"
+        android:ems="15"
+        android:hint="Enter Password"
+        android:drawablePadding="10dp"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textColor="#000"
+        android:textColorHint="#000"
+        android:textSize="15sp"
+        app:passwordToggleEnabled="true" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    
+    <TextView
+        android:id="@+id/tv_forget_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forget Password?"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-medium"
+        android:layout_gravity="right"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="15sp"
+        android:layout_marginRight="20dp"/>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:layout_margin="5dp"
+        android:text="LOGIN"/>
+
+    <TextView
+        android:id="@+id/loginQn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account,Signup"
+        android:gravity="center"/>
+
+
+
+</LinearLayout>
